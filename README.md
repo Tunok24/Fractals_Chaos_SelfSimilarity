@@ -5,4 +5,6 @@ This repository is an experimental collection of Python scripts for simulating a
 
 Each script focuses on a different attractor (e.g., Lorenz, Rossler, Aizawa, Chen-Lee) with options to animate or export 2D/3D plots.
 
+![Aizawa Attractor](fig/logBifurLyap.png)
+
 This project will also serve as a dataset generator for future symbolic regression experiments, particularly for training PySINDy models to rediscover underlying equations from the generated time series.
